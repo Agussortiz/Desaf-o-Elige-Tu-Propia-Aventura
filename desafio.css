@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 5px;
+}
+
+.titulo__pagprincipal{
+    color: blue;
+}
+
+.desafiop4{
+    background-color: rgba(25, 131, 230, 0.692);
+    text-align: center;
+
+}
+
+.desafiop2{
+    background-color: rgba(207, 191, 46, 0.692);
+    text-align: center;
+
+}
+
+.desafiop3{
+    background-color: rgba(87, 25, 230, 0.692);
+    text-align: center;
+
+}
+
+.desafiop1{
+    display: inline;
+    text-align: center;
+    background-color: rgba(245, 245, 220, 0.842);
+}
